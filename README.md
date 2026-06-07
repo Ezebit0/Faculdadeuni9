@@ -1,103 +1,103 @@
 # 📄 Formulário de Contato com Flexbox
 
-Este projeto é uma página web simples que implementa um formulário de contato estilizado utilizando HTML5 e CSS3, com foco em organização usando Flexbox.
+Projeto desenvolvido com **HTML5** e **CSS3**, tendo como objetivo a criação de uma página de contato moderna e organizada utilizando **Flexbox** para estruturação do layout.
 
----
+## 📌 Sobre o Projeto
+
+Este projeto simula uma página de contato presente em sites institucionais e empresariais. A aplicação conta com um formulário intuitivo e um layout dividido em seções, proporcionando uma experiência visual agradável e organizada.
 
 ## 🚀 Funcionalidades
 
-* Formulário com os campos:
+* Campo para nome do usuário
+* Campo para e-mail
+* Seleção de assunto através de lista suspensa
+* Campo de mensagem
+* Validação básica utilizando o atributo `required`
+* Botão de envio com efeito visual ao passar o mouse
+* Estrutura semântica utilizando HTML5
 
-  * Nome
-  * Email
-  * Assunto (select)
-  * Mensagem (textarea)
-* Validação básica com `required`
-* Layout estruturado com:
+## 🎨 Recursos de Estilização
 
-  * Header (menu de navegação)
-  * Main (conteúdo principal)
-  * Footer (rodapé)
-* Estilização moderna com:
+* Layout construído com **Flexbox**
+* Cabeçalho com menu de navegação
+* Área principal para conteúdo
+* Rodapé informativo
+* Campos de formulário estilizados
+* Bordas arredondadas
+* Espaçamentos e alinhamentos organizados
+* Efeito *hover* no botão de envio
 
-  * Flexbox
-  * Inputs com padding e bordas arredondadas
-  * Botão com efeito hover
-
----
-
-## 🧱 Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 * HTML5
-* CSS3 (Flexbox)
+* CSS3
+* Flexbox
 
----
+## 📂 Estrutura do Projeto
 
-## 📁 Estrutura do projeto
-
+```text
+📦 formulario-contato
+├── contato.html
+└── contato.css
 ```
-📦 projeto
- ┣ 📜 contato.html
- ┗ 📜 contato.css
-```
 
----
+## 🎯 Objetivos de Aprendizagem
 
-## 🎯 Objetivo
+Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 
-Praticar:
+* Estruturação de páginas web com HTML5
+* Criação e configuração de formulários
+* Utilização de elementos semânticos
+* Estilização com CSS3
+* Organização de layouts utilizando Flexbox
+* Associação de labels com inputs
+* Aplicação de validações básicas em formulários
 
-* Estruturação de páginas com HTML
-* Uso de formulários
-* Estilização com CSS
-* Layout com Flexbox
+## 💻 Como Executar
 
----
+1. Clone este repositório:
 
-## 💡 Como usar
-
-1. Clone o repositório:
-
-```
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 
-2. Abra o arquivo:
+2. Acesse a pasta do projeto.
 
+3. Abra o arquivo `contato.html` em qualquer navegador moderno.
+
+## 🖼️ Demonstração
+
+Adicione aqui uma captura de tela do projeto:
+
+```md
+![Preview do Projeto](./img/preview.png)
 ```
-contato.html
-```
 
-3. Execute no navegador
+## 📚 Conhecimentos Aplicados
 
----
-
-## 🖼️ Preview
-
-*(adicione aqui um print do projeto depois)*
-
----
-
-## 📚 Aprendizados
-
-* Uso de `form` com método POST
-* Associação de `label` com inputs (`for`)
-* Organização de layout com `display: flex`
-* Uso de `justify-content` e `flex-direction`
-
----
+* `display: flex`
+* `justify-content`
+* `align-items`
+* `flex-direction`
+* Formulários HTML
+* Inputs, Select e Textarea
+* Pseudo-classes CSS (`:hover`)
+* Estrutura semântica da web
 
 ## 👨‍💻 Autor
 
-Desenvolvido por você 🚀
+**Eduardo Mendes**
 
----
+Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web, programação e boas práticas de desenvolvimento.
 
-## 📌 Próximos passos
+## 🔮 Melhorias Futuras
 
-* Tornar o layout responsivo (mobile)
-* Adicionar validação com JavaScript
-* Integrar com backend (Node.js, PHP, etc.)
-* Melhorar design (UI/UX)
+* [ ] Tornar o layout totalmente responsivo
+* [ ] Implementar validação com JavaScript
+* [ ] Integrar com backend ASP.NET MVC
+* [ ] Armazenar mensagens em banco de dados
+* [ ] Melhorar a interface e experiência do usuário (UI/UX)
 
----
+## ⭐ Contribuição
+
+Sugestões e melhorias são sempre bem-vindas. Caso queira contribuir, fique à vontade para abrir uma issue ou enviar um pull request.
