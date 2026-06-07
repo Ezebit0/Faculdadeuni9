@@ -1,103 +1,84 @@
-# 📄 Formulário de Contato com Flexbox
+📄 Formulário de Contato com Flexbox
 
-Este projeto é uma página web simples que implementa um formulário de contato estilizado utilizando HTML5 e CSS3, com foco em organização usando Flexbox.
+Projeto desenvolvido com HTML5 e CSS3, tendo como objetivo a criação de uma página de contato moderna e organizada utilizando Flexbox para estruturação do layout.
 
----
+📌 Sobre o Projeto
 
-## 🚀 Funcionalidades
+Este projeto simula uma página de contato presente em sites institucionais e empresariais. A aplicação conta com um formulário intuitivo e um layout dividido em seções, proporcionando uma experiência visual agradável e organizada.
 
-* Formulário com os campos:
+🚀 Funcionalidades
+Campo para nome do usuário
+Campo para e-mail
+Seleção de assunto através de lista suspensa
+Campo de mensagem
+Validação básica utilizando o atributo required
+Botão de envio com efeito visual ao passar o mouse
+Estrutura semântica utilizando HTML5
+🎨 Recursos de Estilização
+Layout construído com Flexbox
+Cabeçalho com menu de navegação
+Área principal para conteúdo
+Rodapé informativo
+Campos de formulário estilizados
+Bordas arredondadas
+Espaçamentos e alinhamentos organizados
+Efeito hover no botão de envio
+🛠️ Tecnologias Utilizadas
+HTML5
+CSS3
+Flexbox
+📂 Estrutura do Projeto
+📦 formulario-contato
+├── contato.html
+└── contato.css
+🎯 Objetivos de Aprendizagem
 
-  * Nome
-  * Email
-  * Assunto (select)
-  * Mensagem (textarea)
-* Validação básica com `required`
-* Layout estruturado com:
+Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 
-  * Header (menu de navegação)
-  * Main (conteúdo principal)
-  * Footer (rodapé)
-* Estilização moderna com:
-
-  * Flexbox
-  * Inputs com padding e bordas arredondadas
-  * Botão com efeito hover
-
----
-
-## 🧱 Tecnologias utilizadas
-
-* HTML5
-* CSS3 (Flexbox)
-
----
-
-## 📁 Estrutura do projeto
-
-```
-📦 projeto
- ┣ 📜 contato.html
- ┗ 📜 contato.css
-```
-
----
-
-## 🎯 Objetivo
-
-Praticar:
-
-* Estruturação de páginas com HTML
-* Uso de formulários
-* Estilização com CSS
-* Layout com Flexbox
-
----
-
-## 💡 Como usar
-
-1. Clone o repositório:
-
-```
+Estruturação de páginas web com HTML5
+Criação e configuração de formulários
+Utilização de elementos semânticos
+Estilização com CSS3
+Organização de layouts utilizando Flexbox
+Associação de labels com inputs
+Aplicação de validações básicas em formulários
+💻 Como Executar
+Clone este repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
-```
+Acesse a pasta do projeto.
+Abra o arquivo contato.html em qualquer navegador moderno.
+🖼️ Demonstração
 
-2. Abra o arquivo:
+Adicione aqui uma captura de tela do projeto:
 
-```
-contato.html
-```
+![Preview do Projeto](./img/preview.png)
+📚 Conhecimentos Aplicados
+display: flex
+justify-content
+align-items
+flex-direction
+Formulários HTML
+Inputs, Select e Textarea
+Pseudo-classes CSS (:hover)
+Estrutura semântica da web
+👨‍💻 Autor
 
-3. Execute no navegador
+Eduardo Mendes
 
----
+Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web, programação e boas práticas de desenvolvimento.
 
-## 🖼️ Preview
+🔮 Melhorias Futuras
 
-*(adicione aqui um print do projeto depois)*
+Tornar o layout totalmente responsivo
 
----
+Implementar validação com JavaScript
 
-## 📚 Aprendizados
+Integrar com backend ASP.NET MVC
 
-* Uso de `form` com método POST
-* Associação de `label` com inputs (`for`)
-* Organização de layout com `display: flex`
-* Uso de `justify-content` e `flex-direction`
+Armazenar mensagens em banco de dados
 
----
+Melhorar a interface e experiência do usuário (UI/UX)
 
-## 👨‍💻 Autor
+⭐ Contribuição
 
-Desenvolvido por você 🚀
-
----
-
-## 📌 Próximos passos
-
-* Tornar o layout responsivo (mobile)
-* Adicionar validação com JavaScript
-* Integrar com backend (Node.js, PHP, etc.)
-* Melhorar design (UI/UX)
-
----
+Sugestões e melhorias são sempre bem-vindas. Caso queira contribuir, fique à vontade para abrir uma issue ou enviar um pull request.
