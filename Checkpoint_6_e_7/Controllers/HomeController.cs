@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Checkpoint_6.Models;
+using Checkpoint_6_e_7.Models;
 
-namespace Checkpoint_6.Controllers;
+namespace Checkpoint_6_e_7.Controllers;
 
 public class HomeController : Controller
 {
