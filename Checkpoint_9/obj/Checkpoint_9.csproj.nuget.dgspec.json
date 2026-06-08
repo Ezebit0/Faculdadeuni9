@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\Checkpoint_8.csproj": {}
+    "C:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_9\\Checkpoint_9.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\Checkpoint_8.csproj": {
+    "C:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_9\\Checkpoint_9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\Checkpoint_8.csproj",
-        "projectName": "Checkpoint_8",
-        "projectPath": "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\Checkpoint_8.csproj",
+        "projectUniqueName": "C:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_9\\Checkpoint_9.csproj",
+        "projectName": "Checkpoint_9",
+        "projectPath": "C:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_9\\Checkpoint_9.csproj",
         "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\obj\\",
+        "outputPath": "C:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config"
