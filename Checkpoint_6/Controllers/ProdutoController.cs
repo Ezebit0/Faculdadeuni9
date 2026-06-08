@@ -12,7 +12,7 @@ namespace SeuProjeto.Controllers
                 "Teclado",
                 "Monitor",
                 "Webcam",
-                "Headset"
+                "Fio"
             };
 
             List<double> precos = new List<double>
