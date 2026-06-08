@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Eduardo\\.nuget\\packages\\": {}
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoints\\MeuProjeto.csproj",
+      "projectUniqueName": "C:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoints\\MeuProjeto.csproj",
       "projectName": "MeuProjeto",
-      "projectPath": "D:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoints\\MeuProjeto.csproj",
-      "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoints\\obj\\",
+      "projectPath": "C:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoints\\MeuProjeto.csproj",
+      "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoints\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
