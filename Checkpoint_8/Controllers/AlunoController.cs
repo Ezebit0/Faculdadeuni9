@@ -19,7 +19,7 @@ namespace Checkpoint_8.Controllers
                 return View(aluno);
             }
 
-            return Content("Aluno cadastrado com sucesso!");
+            return View("Confirmacao", aluno);
         }
     }
 }
