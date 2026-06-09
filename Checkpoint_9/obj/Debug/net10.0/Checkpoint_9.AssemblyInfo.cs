@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Checkpoint_9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e9768e3e6f870950ffc75e6ddfbe73ae04799b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d95002d3224ebea44319ef28230556cce485e3d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Checkpoint_9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Checkpoint_9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

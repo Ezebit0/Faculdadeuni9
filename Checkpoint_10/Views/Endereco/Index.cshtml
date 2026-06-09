@@ -1,0 +1,79 @@
+@model Checkpoint_10.Models.EnderecoModel
+
+@{
+    ViewData["Title"] = "Consulta CEP";
+}
+
+<h2>Consulta CEP</h2>
+
+<form asp-action="Resultado" method="post">
+
+    <div>
+        <label>Nome</label>
+        <input asp-for="Nome" class="form-control" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>CEP</label>
+        <input asp-for="Cep" id="cep" class="form-control" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Logradouro</label>
+        <input asp-for="Logradouro" id="logradouro" class="form-control" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Bairro</label>
+        <input asp-for="Bairro" id="bairro" class="form-control" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Cidade</label>
+        <input asp-for="Cidade" id="cidade" class="form-control" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>UF</label>
+        <input asp-for="UF" id="uf" class="form-control" />
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">
+        Enviar
+    </button>
+
+</form>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+<script>
+    $("#cep").blur(function () {
+
+        let cep = $(this).val().replace(/\D/g,'');
+
+        $.getJSON(
+            `https://viacep.com.br/ws/${cep}/json/`,
+            function(dados){
+
+                $("#logradouro").val(dados.logradouro);
+                $("#bairro").val(dados.bairro);
+                $("#cidade").val(dados.localidade);
+                $("#uf").val(dados.uf);
+
+            }
+        );
+
+    });
+</script>

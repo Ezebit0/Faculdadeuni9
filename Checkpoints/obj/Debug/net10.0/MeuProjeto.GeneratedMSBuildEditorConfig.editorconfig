@@ -12,53 +12,53 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MeuProjeto
 build_property.RootNamespace = MeuProjeto
-build_property.ProjectDir = C:\Dev\Faculdade DESENVOLVIMENTO\Checkpoints\
+build_property.ProjectDir = D:\Dev\Clone Repositorio\Faculdadeuni9\Checkpoints\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Dev\Faculdade DESENVOLVIMENTO\Checkpoints
+build_property.MSBuildProjectDirectory = D:\Dev\Clone Repositorio\Faculdadeuni9\Checkpoints
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/Aluno/Detalhes.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/Aluno/Detalhes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cRGV0YWxoZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/Aluno/Index.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/Aluno/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/Home/Index.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/Home/Privacy.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/Home/Sobre.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/Home/Sobre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/Shared/Error.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/_ViewImports.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/_ViewStart.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/Faculdade DESENVOLVIMENTO/Checkpoints/Views/Shared/_Layout.cshtml]
+[D:/Dev/Clone Repositorio/Faculdadeuni9/Checkpoints/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dcklq2h2qn

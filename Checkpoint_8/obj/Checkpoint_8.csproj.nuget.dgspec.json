@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\Checkpoint_8.csproj": {}
+    "D:\\Dev\\Clone Repositorio\\Faculdadeuni9\\Checkpoint_8\\Checkpoint_8.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\Checkpoint_8.csproj": {
+    "D:\\Dev\\Clone Repositorio\\Faculdadeuni9\\Checkpoint_8\\Checkpoint_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\Checkpoint_8.csproj",
+        "projectUniqueName": "D:\\Dev\\Clone Repositorio\\Faculdadeuni9\\Checkpoint_8\\Checkpoint_8.csproj",
         "projectName": "Checkpoint_8",
-        "projectPath": "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\Checkpoint_8.csproj",
-        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Faculdade DESENVOLVIMENTO\\Checkpoint_8\\obj\\",
+        "projectPath": "D:\\Dev\\Clone Repositorio\\Faculdadeuni9\\Checkpoint_8\\Checkpoint_8.csproj",
+        "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Clone Repositorio\\Faculdadeuni9\\Checkpoint_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

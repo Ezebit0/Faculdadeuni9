@@ -1,0 +1,43 @@
+@model Checkpoint_10.Models.EnderecoModel
+
+@{
+    ViewData["Title"] = "Resultado";
+}
+
+<h2>Dados Recebidos</h2>
+
+<hr />
+
+<p>
+    <strong>Nome:</strong>
+    @Model.Nome
+</p>
+
+<p>
+    <strong>CEP:</strong>
+    @Model.Cep
+</p>
+
+<p>
+    <strong>Logradouro:</strong>
+    @Model.Logradouro
+</p>
+
+<p>
+    <strong>Bairro:</strong>
+    @Model.Bairro
+</p>
+
+<p>
+    <strong>Cidade:</strong>
+    @Model.Cidade
+</p>
+
+<p>
+    <strong>UF:</strong>
+    @Model.UF
+</p>
+
+<a asp-action="Index" class="btn btn-secondary">
+    Voltar
+</a>
